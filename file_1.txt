@@ -56,4 +56,14 @@ this will erase my code as well which I want to commit my pointer will be pointi
 =======
 git pull origin main
 to pull out only the latest changes from remote
->>>>>>> a3ac50ecbee2e6c3d9f707169dbc365eeb6bb982
+
+
+================================================================================================
+
+git diff          # Shows what changed in file.txt
+Then you do:
+
+
+git add file.txt
+git diff          # Shows nothing (working directory clean)
+git diff --cached # Shows staged changes

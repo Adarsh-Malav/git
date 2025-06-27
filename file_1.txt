@@ -23,4 +23,29 @@ if there is something if have to commit and it is in staging and I have to unsta
 
 git reset --hard 
 
+this will erase my code as well which I want to commit my pointer will be pointing to headthis is file 1 
+
+
+========================================
+
+git branch -m main
+
+to change the name from master to main
+
+
+========================================
+
+git pull origin main
+
+to pull out only the latest changes from remote
+
+
+========================================
+
+git reset 
+
+if there is something if have to commit and it is in staging and I have to unstage but my code will be there
+
+git reset --hard 
+
 this will erase my code as well which I want to commit my pointer will be pointing to head

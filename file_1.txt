@@ -1,3 +1,10 @@
 this is file 1 
 
 
+git branch -m main
+
+to change the name from master to main
+
+
+git pull origin main
+to pull out only the latest changes from remote

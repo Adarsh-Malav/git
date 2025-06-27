@@ -1,13 +1,17 @@
 this is file 1 
 
 
+<<<<<<< HEAD
 ========================================
 
+=======
+>>>>>>> a3ac50ecbee2e6c3d9f707169dbc365eeb6bb982
 git branch -m main
 
 to change the name from master to main
 
 
+<<<<<<< HEAD
 ========================================
 
 git pull origin main
@@ -49,3 +53,7 @@ if there is something if have to commit and it is in staging and I have to unsta
 git reset --hard 
 
 this will erase my code as well which I want to commit my pointer will be pointing to head
+=======
+git pull origin main
+to pull out only the latest changes from remote
+>>>>>>> a3ac50ecbee2e6c3d9f707169dbc365eeb6bb982

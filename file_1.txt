@@ -1,11 +1,10 @@
 this is file 1 
 
 
-<<<<<<< HEAD
+
 ========================================
 
 =======
->>>>>>> a3ac50ecbee2e6c3d9f707169dbc365eeb6bb982
 git branch -m main
 
 to change the name from master to main

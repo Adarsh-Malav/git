@@ -1,5 +1,0 @@
-git log --oneline
-========================
-
-trying to learn
-trying to learn again 
